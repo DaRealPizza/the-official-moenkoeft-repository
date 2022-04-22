@@ -7,7 +7,7 @@ zodra het bestand is gedownload open je het en volg je deze settings
 ![image](https://user-images.githubusercontent.com/57001817/164736110-ddb743de-2b4e-427f-8290-0dd9a337fd9f.png)
 
 Minecraft Versie: 1.18.1
-Fabric Versie: 1.13.3
+Fabric Versie: 0.13.3
 Create Profile: uit
 
 aight bros u got fabric now give urself a pat on the back u havent completely fucked up yet
